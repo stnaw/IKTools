@@ -1,2 +1,2 @@
-# IKToolsOSX
-unity standalone osx  plugins.
+# IKTools
+unity plugins.
